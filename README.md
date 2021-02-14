@@ -1,4 +1,4 @@
-# Coupon_Collector_Solver
+# Coupon Collector's Problem Solver
 
 This code is uses the Monte Carlo method to sole an unbalanced Coupon Collector's Problem. (Read more here: https://en.wikipedia.org/wiki/Coupon_collector%27s_problem)
 
