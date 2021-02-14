@@ -1,7 +1,3 @@
-# This code is used to calculate the expected number of runs required to acquire all mods from Nightmare Mode missions in Warframe because I don't want to do math.
-# Each mod has a given chance to drop, so using that information, we can simulate with fair accuracy how many times you need to do the missions in each tier to get all the mods.
-# This is, in essence, a brute-force solution to an expanded 'coupon collector's problem', since not each mod has an equal drop chance.
-
 import random
 
 loot_prob = [22.56, 15.49]      # The different probabilities or weights
